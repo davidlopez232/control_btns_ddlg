@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">control_btns</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="favoritos">favoritos</string>
+    <string name="seleccion">seleccion</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+</resources>
